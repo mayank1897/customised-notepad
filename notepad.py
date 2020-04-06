@@ -492,13 +492,6 @@ def rightjustfont_function():
 right_just_button.config(command=rightjustfont_function)
 
 
-
-
-
-     
-
-
-
 window.config(menu=menubar_space)
 
 window.mainloop()
